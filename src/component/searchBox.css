@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+.searchBox{
+    margin-left: 40%;
+    width: 20%;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.searchBox:focus{
+    border: 3px solid rgb(11, 254, 80);
+    background-color: aqua;
+}
